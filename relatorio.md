@@ -1,17 +1,15 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - IsaiasDn3401
 
-**Data:** 08/05/2025 18:54
+**Data:** 08/05/2025 19:01
 
-**Nota Final:** `76.00/100`
+**Nota Final:** `84.00/100`
 **Status:** ✅ Aprovado
 
 ---
 ## ✅ Requisitos Obrigatórios (80%)
-- Foram encontrados `2` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
+- Foram encontrados `1` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
   - ⚠️ **Falhou no teste**: `test_base.py::test_bootstrap_css_included`
     - **Melhoria sugerida**: O CSS do Bootstrap está ausente. Certifique-se de incluir o link do CSS do Bootstrap na seção <head>.
-  - ⚠️ **Falhou no teste**: `test_base.py::test_button_class`
-    - **Melhoria sugerida**: O botão está sem a classe 'btn' ou não é interativo. Certifique-se de que o botão tenha a classe 'btn' e seja interativo usando JavaScript ou um link.
 
 ## ⭐ Itens de Destaque (20%)
 - Você conquistou `3` bônus! Excelente trabalho nos detalhes adicionais!
