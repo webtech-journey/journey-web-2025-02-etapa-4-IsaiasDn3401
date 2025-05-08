@@ -1,0 +1,19 @@
+.card-img-top{
+  object-fit: cover;
+  width: 200px;
+  margin: 0 auto;
+  height:200px;
+}
+.btn-primary{
+   background-color: cadetblue;
+   border: solid cadetblue;
+}
+
+.btn-primary:hover{
+   background-color: cadetblue;
+   border: solid cadetblue;
+    opacity: .9;
+}
+.card{
+    width: 18rem;
+}
